@@ -1,12 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package studentmanagementsystem;
-/**
- *
- * @author Amal Halasa Al Sibaei 202501616 Student managment System
- */
+
 public class Course  {
     private String courseCode; //applying encapsulation to keep data private and safe  
     private String courseTitle;
